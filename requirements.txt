@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+tensorflow
+numpy
+sklearn
+tqdm
+pickle
+pyngrok
